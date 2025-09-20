@@ -1,0 +1,41 @@
+body {
+    border: 3px solid black;
+    margin: 15px;
+    padding: 80px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-right: 400px;
+}
+
+.border {
+    border-top: 4px solid black;
+    width: 85%;
+}
+
+header {
+    font-size: 18px;
+}
+
+main {
+    font-size: 15px;
+}
+
+p {
+    margin: 3px;
+}
+
+h2 {
+    color: rgb(2, 112, 2);
+}
+
+h3 {
+    color: rgb(5, 106, 173);
+    font-size: 15px;
+    margin-bottom: 0;
+}
+ul {
+    margin: 10px 0;
+}
+
+span {
+    font-weight: 600;
+}
